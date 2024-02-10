@@ -3,7 +3,7 @@ A simple repo that will contribute as a blog of my learning steps towards swift 
 
 My coding languege experience:
 -  HTML
--  CSS
+-  CSS/SCSS (Stylesheet Language)
 -  JS
 -  Python (very basic)
 
